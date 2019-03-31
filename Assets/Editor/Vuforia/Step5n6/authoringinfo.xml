@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="Step5" targetId="9ff86e2de16a4a81acc653e0bd9b51c6" version="11.0" toolVersion="3.0.0" bbox="-33.059116 -7.624166 0.000000 33.121929 7.676972 70.515091" previewImage="9ff86e2de16a4a81acc653e0bd9b51c6_preview.jpg"/>
+<ModelTarget name="Step6" targetId="c6c15be0b44e48e2929abc05ff9a88cc" version="11.0" toolVersion="3.0.0" bbox="-33.059116 -7.624166 0.000000 33.121929 88.839851 70.515091" previewImage="c6c15be0b44e48e2929abc05ff9a88cc_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Step5s_assembly" assemblyId="3c603778b1e0438895a74f1dd7deaf7b">
+<Part name="Step5" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="16.4548 -12.206 148.151" rotation="AD: 0.9999295212381278 0.05049629420006353 -0.24717478683580682 202.409" image="Step5_viewpoint_0000.png">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="35.2321 -0.50162 120.701" rotation="AD: 0.9912122980247998 0.1947648514421281 -0.9533563086349288 196.589" image="Step5_viewpoint_0001.png">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="18.7772 11.7286 92.0172" rotation="AD: -0.8324775863869132 -0.5886328262587318 2.8813043741114512 173.63" image="Step5_viewpoint_0002.png">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0003" translation="-16.4548 12.2545 90.7838" rotation="AD: 0.7861814019825226 -0.6497455700145277 3.180445720027714 185.506" image="Step5_viewpoint_0003.png">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0004" translation="-35.2321 0.550194 118.234" rotation="AD: 0.9889377150615644 -0.21005630222175387 1.02820657530776 195.951" image="Step5_viewpoint_0004.png">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0005" translation="-18.7772 -11.6801 146.918" rotation="AD: 0.9998711889725223 -0.0590177712185463 0.28888664508078893 202.173" image="Step5_viewpoint_0005.png">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="Step6s_assembly" assemblyId="e4138ee0a30a40c4a080ab8bd5da2e62">
+<Part name="Step6" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="27.5784 21.467 276.408" rotation="AD: 0.998154388924759 0.14635697699033534 -0.480499862808525 210.442" image="Step6_viewpoint_0000.png">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="32.8128 40.9041 247.461" rotation="AD: -0.9429850206487738 -0.42114747533852387 1.3826556702908699 161.101" image="Step6_viewpoint_0001.png">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="5.23436 53.1497 229.225" rotation="AD: -0.2502183008724682 -1.0149557781752927 3.332168525195438 177.5" image="Step6_viewpoint_0002.png">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0003" translation="-27.5784 45.9582 239.935" rotation="AD: 0.8779225994899117 -0.5554958823139097 1.8237305848436607 194.521" image="Step6_viewpoint_0003.png">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0004" translation="-32.8128 26.5211 268.881" rotation="AD: 0.9937898357167357 -0.20644552248079912 0.6777746252302608 207.858" image="Step6_viewpoint_0004.png">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0005" translation="-5.23436 14.2755 287.118" rotation="AD: 0.9999986578398089 -0.022872397627787623 0.07509162971424178 213.783" image="Step6_viewpoint_0005.png">
+
+</EntryPoint>
+
+</Assembly>
+<ModelTargetDatabase mtDBid="691d6268fc244aeca3a21eaaee7a6fc2" name="Step5n6" toolVersion="13.0" version="13.0">
+    <RecognitionResult assemblyId="e4138ee0a30a40c4a080ab8bd5da2e62" assemblyName="Step6" entryPoint="viewpoint_0000" />
+    <RecognitionResult assemblyId="e4138ee0a30a40c4a080ab8bd5da2e62" assemblyName="Step6" entryPoint="viewpoint_0001" />
+    <RecognitionResult assemblyId="e4138ee0a30a40c4a080ab8bd5da2e62" assemblyName="Step6" entryPoint="viewpoint_0002" />
+    <RecognitionResult assemblyId="e4138ee0a30a40c4a080ab8bd5da2e62" assemblyName="Step6" entryPoint="viewpoint_0003" />
+    <RecognitionResult assemblyId="e4138ee0a30a40c4a080ab8bd5da2e62" assemblyName="Step6" entryPoint="viewpoint_0004" />
+    <RecognitionResult assemblyId="e4138ee0a30a40c4a080ab8bd5da2e62" assemblyName="Step6" entryPoint="viewpoint_0005" />
+    <RecognitionResult assemblyId="3c603778b1e0438895a74f1dd7deaf7b" assemblyName="Step5" entryPoint="viewpoint_0000" />
+    <RecognitionResult assemblyId="3c603778b1e0438895a74f1dd7deaf7b" assemblyName="Step5" entryPoint="viewpoint_0001" />
+    <RecognitionResult assemblyId="3c603778b1e0438895a74f1dd7deaf7b" assemblyName="Step5" entryPoint="viewpoint_0002" />
+    <RecognitionResult assemblyId="3c603778b1e0438895a74f1dd7deaf7b" assemblyName="Step5" entryPoint="viewpoint_0003" />
+    <RecognitionResult assemblyId="3c603778b1e0438895a74f1dd7deaf7b" assemblyName="Step5" entryPoint="viewpoint_0004" />
+    <RecognitionResult assemblyId="3c603778b1e0438895a74f1dd7deaf7b" assemblyName="Step5" entryPoint="viewpoint_0005" />
+</ModelTargetDatabase>
+
+</QCARInfo>

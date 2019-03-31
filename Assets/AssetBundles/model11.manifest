@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2922982500
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb83095f5ca8d1a9472612ae682456b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dcc88cf2fcafdb7b40783d2bdaa8a174
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/model11.blend
+Dependencies: []
