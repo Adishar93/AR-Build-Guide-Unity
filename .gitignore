@@ -20,6 +20,7 @@ sysinfo.txt
 *.booproj
 *.csproj
 *.sln
+*.apk
 *.suo
 *.svd
 *.unityproj
