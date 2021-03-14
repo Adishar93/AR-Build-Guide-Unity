@@ -1,4 +1,4 @@
-# ARModelAssemblyUnity
+# ARMAssemblyVisualizerUnity
 Augmented Reality implementation for the 
 AR Application aimed at helping with manual assembly
 of products / machinery by projecting a virtual model on a flat surface
