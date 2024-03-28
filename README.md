@@ -1,4 +1,4 @@
-# AR Assembly Visualizer Unity
+# AR Build Guide Unity
 Augmented Reality implementation for the 
 AR Application aimed at helping with manual assembly
 of products / machinery by projecting a virtual model on a flat surface
@@ -8,7 +8,7 @@ This repository has code for Augmented Reality implementation
 of the AR Application (Smart India Hackathon).
 The implementation is done using Unity and Vuforia SDK.
 
-## Project Demo (Only Augmented Reality Part): 
+## Project Demo (Augmented Reality): 
 
 https://github.com/Adishar93/AR_AssemblyVisualizer/assets/39119745/f4fddbfc-7658-44de-9811-fb92d497964c
 
@@ -18,4 +18,4 @@ https://github.com/Adishar93/AR_AssemblyVisualizer/assets/39119745/ac87deae-c1e8
 
 
 Find the code for the UI and Firebase API Implementation in the following repository
-https://github.com/Adishar93/AR_AssemblyVisualizer_Base
+https://github.com/Adishar93/AR-Build-Guide-App
